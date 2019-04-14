@@ -13,7 +13,7 @@ class App extends Component {
                 <div className="col-md-12">
                   <nav>
                     <ul>
-                      <li><Link to="">PROJECTS</Link></li>
+                      <li><Link to="/projects">PROJECTS</Link></li>
                     </ul>
                   </nav>
                 </div>
